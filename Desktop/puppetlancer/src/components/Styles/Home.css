@@ -1,0 +1,130 @@
+.container {
+    display: flex;
+    padding-top: 60px;
+    width: 100%;
+    height: auto;
+    background-color: #581fad;
+    padding-bottom: 10vh;
+  }
+  
+  .container1 {
+    flex: 6;
+    margin-left: 15%;
+    /* border-right: 1px solid black; */
+    order: 1;
+  }
+  
+  .big {
+    font-size: 45px;
+    font-weight: 800;
+    color: white;
+    margin-bottom: 0;
+  }
+  
+  .small {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+    margin-top: 12px;
+  }
+  
+  .container2 {
+    flex: 5;
+    justify-content: center;
+    order: 2;
+  }
+  
+  .explore-btn {
+    /* Basic button styles */
+    /* background-color: #1a73e8; */
+    margin-top: 30px;
+    background-color: rgb(32, 141, 205);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: border-radius 0.3s; /* Adding a transition effect for smoothness */
+  }
+  
+  .explore-btn:hover {
+    /* Rounded corners on hover */
+    border-radius: 16px;
+  }
+  
+  .custom {
+    /* Basic button styles */
+    margin-top: 30px;
+    background-color: #581fad;
+    border-radius: 5px;
+    margin-left: 20px;
+    border: 2px solid white; /* Adding a white border */
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: border-radius 0.3s; /* Adding a transition effect for smoothness */
+  }
+  
+  .custom:hover {
+    /* Rounded corners on hover */
+    border-radius: 16px;
+  }
+  
+  /* Media query for screens under 1100px */
+  @media screen and (max-width: 1100px) {
+    .container {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .container1 {
+      flex: 1;
+      text-align: center;
+      /* justify-content: center; */
+      margin-left: 0;
+      border-right: none; /* Remove border when stacked */
+      order: 2;
+    }
+  
+    .container2 {
+      flex: 1;
+      text-align: center;
+      padding-top: 20px;
+      order: 1;
+    }
+  }
+  
+  @media (max-width:570px) {
+    .big{
+      font-size: 35px;
+    }
+    .small{
+      font-size: 15px ;
+    }
+    .custom{
+      font-size: 10px;
+    }
+    .explore-btn{
+      font-size: 10px;
+    }
+    
+  }
+
+@media (max-width: 400px) {
+  .big{
+    font-size: 25px;
+  }
+  .small{
+    font-size: 10px;
+  }
+  .custom{
+    font-size: 8px;
+  }
+  .explore-btn{
+    font-size: 8px;
+  }
+  
+}

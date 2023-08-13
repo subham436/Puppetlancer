@@ -1,0 +1,118 @@
+/* ProductCard.css */
+a {
+  text-decoration: none; /* Remove underline from all links */
+}
+
+.product-card {
+  width: 300px;
+  padding: 10px;
+  padding-bottom: 40px;
+}
+
+.combine-logo-img {
+  display: flex;
+  flex-direction: row; /* Stack the child divs vertically */
+  /* align-items: center; Center the child divs horizontally */
+}
+
+.main-image {
+  display: flex; /* Add flexbox to center the image */
+  /* justify-content: center; Center the image horizontally */
+  padding-left: 15px;
+  align-items: center; /* Center the image vertically */
+  flex: 9; /* Take 90% of the available width */
+}
+
+.main-image img {
+  height: 200px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.bottom-info {
+  display: grid; /* Use grid for vertical layout */
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  top: 0;
+  /* padding: 8px; Add some padding for better spacing */
+  border-radius: 8px; /* Add rounded corners */
+}
+
+.bottom-info-1 {
+  display: flex;
+}
+
+.product-logos {
+  display: flex;
+  flex-direction: column; /* Make logos stack vertically */
+  align-items: self-start; /* Align logos to the left */
+  margin-right: 10px; /* Add some space between the logos */
+}
+
+.product-logos img {
+  width: 20px; /* Set the width of the logo image */
+  height: 20px; /* Set the height of the logo image */
+  margin-bottom: 5px; /* Add some space between the logos */
+}
+
+.product-name {
+  /* font-weight: bold; */
+  /* font-size: 23px; */
+  padding-top: 6px;
+  color: black; /* Add a color for the product name link */
+}
+
+.product-price {
+  /* padding-top: 12px; */
+  float: right;
+  font-weight: bold;
+  /* text-align: right; */
+  font-size: 20px;
+  /* width:1%; */
+  color: #4aa8b3; /* Set a color for the product price */
+}
+
+/* ... (existing styles) */
+
+.product-name-price {
+  display: flex;
+  padding-bottom: 0;
+  justify-content: space-between;
+}
+
+.product-info {
+  width: 90%;
+  font-size: 16px;
+  /* font-style: italic; */
+}
+
+.product-info span {
+  /* font-size: 100%; */
+  /* font-weight: bold; */
+  color: gray;
+}
+
+.product-bundle {
+  font-size: 13px;
+  /* font-weight: bold; */
+  /* Add any other styles specific to the product bundles */
+}
+
+.product-bundle img {
+  /* padding-top: 3px; */
+  align-items: center;
+  width: 12px; /* Set the width of the logo image */
+  height: 12px; /* Set the height of the logo image */
+  margin-right: 5px; /* Add some space between the logo and the text */
+}
+
+@media (max-width:400px) {
+  .product-card{
+    width: 250px;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-bottom: 20px;
+  }
+  
+}

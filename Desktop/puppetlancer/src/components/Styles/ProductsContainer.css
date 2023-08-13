@@ -1,0 +1,202 @@
+/* Styles/Category.css */
+.product-section{
+  margin-top: 20px;
+  display: flex;
+  border-bottom: 0.25px solid gray;
+  /* margin-bottom: 30px; */
+}
+.product-container{
+  display: flex;
+  margin-left:20px;
+  padding-top: 50px;
+  /* margin-right:20px ; */
+  flex-wrap: wrap;
+  max-width: 1150px;
+  justify-content: space-around;
+  padding-bottom: 20px;
+}
+.category-container {
+  padding-top: 80px;
+  padding-left: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 20px;
+  margin-bottom: 0;
+  border-right: 1px solid black;
+  min-width: 215px;
+  min-height: 100vh;
+}
+.category-container strong{
+  margin: 0 0 9px;
+  font-family: Open Sans,sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #666;
+  font-weight: 700;
+}
+
+/* Styling for radio buttons in desktop view */
+label {
+  margin: 5px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+  cursor: pointer;
+}
+
+/* Hide default radio button appearance */
+input[type="radio"] {
+  display: none;
+}
+
+/* Custom radio button style */
+.radio-custom {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%; /* Make it circular */
+  border: 2px solid #4aa8b3; /* Border color */
+  cursor: pointer;
+  position: relative;
+  margin-right: 15px;
+  transition: background-color 0.3s; /* Add transition for the hover effect */
+}
+
+/* White dot in the middle of the radio button when checked */
+input[type="radio"]:checked + .radio-custom::before {
+  content: "";
+  display: block;
+  width: 6px;
+  height: 6px;
+  background-color: #fff;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Change the background color of the radio button when checked */
+input[type="radio"]:checked + .radio-custom {
+  background-color: #4aa8b3;
+}
+
+/* Hover effect for the radio button */
+.radio-custom:hover {
+  background-color: #e1f1f4;
+}
+
+/* Styling for dropdown in mobile view */
+select {
+  margin: 10px 0;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 9px 17px;
+  border-radius: 4px;
+  color: #999;
+  display: inline-block;
+  font-size: 16px;
+  width: 50%;
+}
+
+/* Styling for dropdown option in mobile view */
+option {
+  font-size: 16px;
+}
+
+/* Pagination styles */
+.pagination {
+  display: flex;
+  justify-content: center;
+  padding-top: 63px;
+  max-height: 50px;
+  width: 100%;
+  }
+  .pagination span{
+    font-size: 18px;
+  }
+  
+  .pagination button {
+  /* background-color: rgb(32, 141, 205);
+  border: none;
+  font-size: 15px;
+  padding: 8px 16px;
+  color: white;
+  margin: 0 5px;
+  cursor: pointer;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  outline: none;
+  transition: background-color 0.3s ease; */
+  display: block;
+    min-width: 45px;
+    min-height: 45px;
+    line-height: 43px;
+    padding: 0 14px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    color: #333;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    background: #fff;
+    display: inline-block;
+    margin: 0 5px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid #e5e5e5;
+  }
+  
+  /* .pagination button:hover {
+  background-color: #e0e0e0;
+  } */
+  .pagination button.active {
+    /* background-color: #333; */
+    /* color: #fff; */
+    border-color: red; /* Add this line to set the red border for active button */
+  }
+  
+  .pagination button:disabled {
+  display: none;
+  }
+@media screen and (max-width: 1100px){
+  .product-section{
+      display: block;
+  }
+  .category-container{
+      padding-left: 0;
+      padding-top: 0;
+      align-items: center;
+      border-right: none;
+      width: 90%;
+      border-bottom: 1px solid #999;
+      min-height: 15vh;
+  }
+  .category-container strong{
+      align-items:start;
+  }
+}
+
+@media screen and (max-width: 700px){
+  .product-container{
+      /* justify-content: space-between; */
+      margin-left: 0;
+  }
+  select{
+      width: 80%;
+  }
+}
+
+@media screen and (max-width: 500px){
+  .pagination button{
+    min-width: 20px;
+    height: 20px;
+    font-size: 12px;
+    padding: 0 4px;
+  }
+  
+}

@@ -1,0 +1,537 @@
+
+[
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab41",
+      "name": "Alex",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab42",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Other",
+      "name": "Lenda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab43",
+      "name": "Grandma Cartoon",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Women"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab44",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Animal",
+      "name": "Ghoda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab45",
+      "name": "Alex",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab46",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Other",
+      "name": "Lenda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },{
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab47",
+      "name": "Alex",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab48",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Women",
+      "name": "Stylish Lenda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab49",
+      "name": "Alexander",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab50",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Animal",
+      "name": "Horse",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab51",
+      "name": "Alex",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab52",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Other",
+      "name": "Lenda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab53",
+      "name": "Grandma Cartoon",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Women"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab54",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Animal",
+      "name": "Ghoda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab55",
+      "name": "Alex",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab56",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Other",
+      "name": "Lenda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },{
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab57",
+      "name": "Alex",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab58",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Women",
+      "name": "Stylish Lenda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab59",
+      "name": "Alexander",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab60",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Animal",
+      "name": "Horse",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab41",
+      "name": "Alex",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab42",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Other",
+      "name": "Lenda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab43",
+      "name": "Grandma Cartoon",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Women"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab44",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Animal",
+      "name": "Ghoda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab45",
+      "name": "Alex",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab46",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Other",
+      "name": "Lenda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },{
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab47",
+      "name": "Alex",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab48",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Women",
+      "name": "Stylish Lenda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab49",
+      "name": "Alexander",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab50",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Animal",
+      "name": "Horse",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab51",
+      "name": "Alex",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab52",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Other",
+      "name": "Lenda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab53",
+      "name": "Grandma Cartoon",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Women"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab54",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Animal",
+      "name": "Ghoda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab55",
+      "name": "Alex",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab56",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Other",
+      "name": "Lenda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },{
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab57",
+      "name": "Alex",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab58",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Women",
+      "name": "Stylish Lenda",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    },
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab59",
+      "name": "Alexander",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ],
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "actions": 112,
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Men"
+      
+    },
+    
+    {
+      "id": "02ee2da9-02e8-46e9-83b6-e3a47d41ab60",
+      "about": "A lovely grandma cartoon character prepared as a fully-functional puppet for Adobe Character Animator. This charming old lady supports all the latest features of the software - Motion Library and Body Tracker, and will help you create amazing animations without any professional skills. The puppet comes with an expression tracker, lip-sync function, mimics, and premade triggers, so you can make your own animations in minutes.",
+      "category": "Animal",
+      "name": "Horse",
+      "image": "/images/sample1.png",
+      "hoverImage": "/images/sample1.jpg",
+      "prices": [
+        { "type": "Vector-file", "price": 10 },
+        { "type": "Zip-file", "price": 15 }
+      ]
+    }
+  ]
